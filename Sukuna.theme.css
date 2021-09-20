@@ -1,0 +1,18 @@
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.55;
+    --guildchanneltransparency: 0.4;
+    --memberlistransparency: 0.25;
+    --accentcolor: 238,129,130;
+    --background: url("https://cdn.discordapp.com/attachments/875150133891854396/889318543999512596/iu.png");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
